@@ -43,7 +43,7 @@ contact:
 
 branding:
   accentColor: "#1f2933"
-  logoPath: "/src/assets/brand/logo.svg"
+  logoPath: "/src/assets/brand/logo.png"
   fontFamily: "system" # allowed: system
 
 
